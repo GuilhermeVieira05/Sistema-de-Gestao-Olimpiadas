@@ -1,22 +1,29 @@
 ## Diagrama de Caso de Uso:
 
-<img width="1117" height="696" alt="image" src="https://github.com/user-attachments/assets/f9514b43-efb2-4776-b823-9bbaf8c21341" />
+![Diagrama de Caso de Uso](https://github.com/GuilhermeVieira05/Sistema-de-Gestao-Olimpiadas/blob/main/imagens/diagrama-de-caso-de-uso.png)
 
+> 🔗 **Para melhor visualização**, acesse o diagrama completo no [Creately](https://app.creately.com/d/GdDfLxQfDhd/edit).
 
-#### Acesse esse [link](https://app.creately.com/d/GdDfLxQfDhd/edit) para melhor visualização.
+---
 
 ## Diagrama de Classe e Pacote:
 
-<img width="1456" height="588" alt="image" src="https://github.com/user-attachments/assets/906f3942-825a-4236-9df2-8f9ddd760296" />
+![Diagrama de Classe e Pacote](https://github.com/GuilhermeVieira05/Sistema-de-Gestao-Olimpiadas/blob/main/imagens/diagrama-de-classes-e-pacotes.png)
 
-[Figma](https://www.figma.com/board/bOZNhxoYdgG25CeLt4xI4r/Class-Diagram-Template--Community-?node-id=0-1&p=f&t=TJiBYnzaVgd5QrzF-0)
+> 🔗 **Modelagem detalhada disponível no [Figma](https://www.figma.com/board/bOZNhxoYdgG25CeLt4xI4r/Class-Diagram-Template--Community-?node-id=0-1&p=f&t=TJiBYnzaVgd5QrzF-0)**
+
+---
 
 ## Diagrama de Componentes:
 
-<img width="683" height="721" alt="image" src="https://github.com/user-attachments/assets/13144f93-e9bb-4da9-90f8-09eebb70d474" />
+![Diagrama de Componentes](https://github.com/GuilhermeVieira05/Sistema-de-Gestao-Olimpiadas/blob/main/imagens/diagrama-de-componentes.png)
 
-[Figma](https://www.figma.com/design/pt0Nla4KSWvQhoRzDnycWB/Diagrama-de-Componentes--Projeto-de-Software-?node-id=0-1&p=f&t=EkLgwELRe672RGGB-0)
+> 🔗 **Visualize melhor no [Figma](https://www.figma.com/design/pt0Nla4KSWvQhoRzDnycWB/Diagrama-de-Componentes--Projeto-de-Software-?node-id=0-1&p=f&t=EkLgwELRe672RGGB-0)**
+
+---
 
 ## Diagrama de Implantação:
 
-<img width="2481" height="1169" alt="DiagramaImplantacao drawio" src="https://github.com/user-attachments/assets/83dd590d-0b59-45c8-bd9c-b52a6fd4c488" />
+![Diagrama de Implantação](https://github.com/GuilhermeVieira05/Sistema-de-Gestao-Olimpiadas/blob/main/imagens/diagrama-de-implantacao.png)
+
+> 🔗 **Para uma visualização mais completa**, acesse o diagrama completo no [Draw.io](https://drive.google.com/file/d/1Nnr9rx9MP-sN_LaD1t7a79D2_ca7z6y9/view?usp=sharing).
