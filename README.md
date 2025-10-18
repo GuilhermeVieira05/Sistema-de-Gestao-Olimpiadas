@@ -1,6 +1,9 @@
 ## Diagrama de Caso de Uso:
 
-<img width="1001" height="594" alt="image" src="https://github.com/user-attachments/assets/0a4d4686-0786-4dcb-9b1b-0860b67a96bd" />
+<img width="1117" height="696" alt="image" src="https://github.com/user-attachments/assets/f9514b43-efb2-4776-b823-9bbaf8c21341" />
+
+
+#### Acesse esse [link](https://app.creately.com/d/GdDfLxQfDhd/edit) para melhor visualização.
 
 ## Diagrama de Classe e Pacote:
 
