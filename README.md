@@ -9,7 +9,7 @@ O **SGO (Sistema de Gestão das Olimpíadas)** tem como objetivo permitir o **ge
 ### Integrantes 
 
 - Felipe Augusto Pereira de Sousa
-- Guilherme Almeida de Rocha Vieira
+- Guilherme de Almeida Rocha Vieira
 
 ---
 
