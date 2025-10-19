@@ -6,6 +6,13 @@ O **SGO (Sistema de Gestão das Olimpíadas)** tem como objetivo permitir o **ge
 
 ---
 
+### Integrantes 
+
+- Felipe Augusto Pereira de Sousa
+- Guilherme Almeida de Rocha Vieira
+
+---
+
 ## Diagrama de Caso de Uso:
 
 ![Diagrama de Caso de Uso](https://github.com/GuilhermeVieira05/Sistema-de-Gestao-Olimpiadas/blob/main/imagens/diagrama-de-caso-de-uso.png)
