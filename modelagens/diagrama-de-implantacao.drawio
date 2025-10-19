@@ -1,0 +1,110 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Página-1" id="eDZh476bVruTF3ppQM5a">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k_r9CXEyhzjbjf6WHvcO-1" value="Cliente (Browser)" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="306" y="590" width="340" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="k_r9CXEyhzjbjf6WHvcO-2" value="Servidor Web" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="856" y="590" width="340" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="k_r9CXEyhzjbjf6WHvcO-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=95;entryDy=340;entryPerimeter=0;" edge="1" parent="1" target="k_r9CXEyhzjbjf6WHvcO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="646" y="685" as="sourcePoint" />
+            <mxPoint x="726" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_r9CXEyhzjbjf6WHvcO-4" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k_r9CXEyhzjbjf6WHvcO-3">
+          <mxGeometry x="-0.3926" y="-2" relative="1" as="geometry">
+            <mxPoint x="27" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k_r9CXEyhzjbjf6WHvcO-5" value="Servidor da Aplicação" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1367" y="480" width="340" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="k_r9CXEyhzjbjf6WHvcO-6" value="Interface Web" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="923" y="650" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IV2ESkO-b0zPi-air9og-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;endFill=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="k_r9CXEyhzjbjf6WHvcO-6" target="IV2ESkO-b0zPi-air9og-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1146" y="745" as="sourcePoint" />
+            <mxPoint x="1449" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV2ESkO-b0zPi-air9og-2" value="Gestão de Pedidos de Aluguel" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1437" y="550" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IV2ESkO-b0zPi-air9og-3" value="Gestão de automóveis" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1437" y="620" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IV2ESkO-b0zPi-air9og-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="k_r9CXEyhzjbjf6WHvcO-6" target="IV2ESkO-b0zPi-air9og-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1246" y="788" as="sourcePoint" />
+            <mxPoint x="1560" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV2ESkO-b0zPi-air9og-5" value="Avaliação de Pedidos de Aluguel" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1437" y="690" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IV2ESkO-b0zPi-air9og-6" value="Gestão de Usuário" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1437" y="760" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IV2ESkO-b0zPi-air9og-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="k_r9CXEyhzjbjf6WHvcO-6" target="IV2ESkO-b0zPi-air9og-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1236" y="790" as="sourcePoint" />
+            <mxPoint x="1550" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV2ESkO-b0zPi-air9og-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;endFill=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" target="IV2ESkO-b0zPi-air9og-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1126" y="680" as="sourcePoint" />
+            <mxPoint x="1580" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV2ESkO-b0zPi-air9og-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=85;exitDy=0;exitPerimeter=0;entryX=0.545;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k_r9CXEyhzjbjf6WHvcO-2" target="k_r9CXEyhzjbjf6WHvcO-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1316" y="660" as="sourcePoint" />
+            <mxPoint x="1479" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV2ESkO-b0zPi-air9og-10" value="API Rest" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="IV2ESkO-b0zPi-air9og-9">
+          <mxGeometry x="-0.1418" y="1" relative="1" as="geometry">
+            <mxPoint x="4" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV2ESkO-b0zPi-air9og-12" value="Servidor de Banco de Dados" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1836" y="570" width="340" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="IV2ESkO-b0zPi-air9og-13" value="Tabelas" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1906" y="650" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IV2ESkO-b0zPi-air9og-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;endFill=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="IV2ESkO-b0zPi-air9og-2" target="IV2ESkO-b0zPi-air9og-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1766" y="758" as="sourcePoint" />
+            <mxPoint x="2080" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV2ESkO-b0zPi-air9og-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="IV2ESkO-b0zPi-air9og-3" target="IV2ESkO-b0zPi-air9og-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1766" y="748" as="sourcePoint" />
+            <mxPoint x="2080" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV2ESkO-b0zPi-air9og-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" edge="1" parent="1" source="IV2ESkO-b0zPi-air9og-5" target="IV2ESkO-b0zPi-air9og-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1776" y="798" as="sourcePoint" />
+            <mxPoint x="2090" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV2ESkO-b0zPi-air9og-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" edge="1" parent="1" source="IV2ESkO-b0zPi-air9og-6" target="IV2ESkO-b0zPi-air9og-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1756" y="868" as="sourcePoint" />
+            <mxPoint x="2070" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
